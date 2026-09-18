@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practica1" Version="10000">
+  <Project Name="Ejemplo_pasodeargumentos" Path="Ejemplo_pasodeargumentos/Ejemplo_pasodeargumentos.project" Active="No"/>
+  <Project Name="Ejemplo_por_referencia" Path="Ejemplo_por_referencia/Ejemplo_por_referencia.project" Active="No"/>
+  <Project Name="Ejemplo9" Path="Ejemplo9/Ejemplo9.project" Active="No"/>
+  <Project Name="Ejemplo10" Path="Ejemplo10/Ejemplo10.project" Active="No"/>
+  <Project Name="Ejemplo11" Path="Ejemplo11/Ejemplo11.project" Active="No"/>
+  <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplo_pasodeargumentos" ConfigName="Debug"/>
+      <Project Name="Ejemplo_por_referencia" ConfigName="Debug"/>
+      <Project Name="Ejemplo9" ConfigName="Debug"/>
+      <Project Name="Ejemplo10" ConfigName="Debug"/>
+      <Project Name="Ejemplo11" ConfigName="Debug"/>
+      <Project Name="Ejemplo12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
